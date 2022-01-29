@@ -1,13 +1,13 @@
 # main links links
 main:
-  - title: "简介"
-    url: /publications/
+  - title: "服务简介"
+    url: /service/
 
   - title: "个人简历"
-    url: /talks/    
+    url: /cv/    
 
   - title: "联系方式"
-    url: /teaching/    
+    url: /contact/    
     
   #- title: "Portfolio"
   #  url: /portfolio/
