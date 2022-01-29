@@ -37,8 +37,8 @@ redirect_from:
 ======
 * Full-time Engineer
   * 硅谷某公司
-* Software Engineer Intern
-  * 波士顿某软件公司
+* Intern
+  * 波士顿某公司
 * Research Assistant
   * University of California, Davis
   * 从事计算流体力学、空气动力学和气动声学相关的研究工作，发表了10余篇高水平会议、期刊论文
