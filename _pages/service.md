@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "service"
+title: 
 permalink: /service/
 author_profile: true
 redirect_from:
@@ -9,13 +9,14 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+申请文书
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* 文书撰写：根据学生的要求，从0开始起草文书
+* 文书润色：根据学生所给的草稿，以此为基础进行修改
 
-Work experience
+本科院校、研究生院校，以及暑校。文书包括但是不限于resume, personal statement, and letter of recommendation。服务主要目的是尽最大可能得消除语法错误，争取呈现出博人眼球的申请材料。
+
+留学
 ======
 * Summer 2015: Research Assistant
   * Github University
