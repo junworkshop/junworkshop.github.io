@@ -14,47 +14,24 @@ redirect_from:
 * 文书撰写：根据学生的要求，从0开始起草文书
 * 文书润色：根据学生所给的草稿，以此为基础进行修改
 
-本科院校、研究生院校，以及暑校。文书包括但是不限于resume, personal statement, and letter of recommendation。服务主要目的是尽最大可能得消除语法错误，争取呈现出博人眼球的申请材料。
+范围包括本科院校、研究生院校，以及暑校。文书包括但是不限于resume, personal statement, and letter of recommendation。服务主要目的是尽最大可能得消除语法错误，争取呈现出博人眼球的申请材料。
 
-留学
+留学规划
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 留学长期规划：为想提早准备留学的同学，专心订制长期有效的留学计划来实现留学梦
+* 背景提升：根据学生独特的背景，私人订制背景提升计划来提高竞争力
+* 游学项目：带领有兴趣的学生在加州范围内参观各大院校，例如Stanford, UCLA, Caltech, UCLA等等
+* 选校建议：为学生在避免“全聚德”的前提下，冲击自己心中的理想院校
+* 申请后期助理：在拿到offer后，为不太熟悉的学生打听当地的生活交通情况，提早预订公寓
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
+英语考试
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* 提供GRE/TOEFL辅导：根据学生自生水平，相应订制私人化课程
+* 口语陪练
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+<ins>所有服务的价格需要根据每一个学生的情况而定，但是低于大型留学机构。一定良心价！支持微信转账和支付宝。欢迎发邮件咨询。谢谢！</ins>
+
+
+
+
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
