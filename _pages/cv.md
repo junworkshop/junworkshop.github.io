@@ -16,7 +16,7 @@ redirect_from:
   * TOEFL: 110
 * 暑校Summer School
   * 成功申请到University of California, San Diego的暑校，所有课程全A并且拿到教授推荐信
-* DIY研究生院校申请：获得多所著名高校全额奖学金录取，包括加州大学戴维斯分校，佐治亚理工，普渡大学，Texas A&M等等。
+* DIY研究生院校申请：获得多所著名高校全额奖学金录取，包括加州大学戴维斯分校，佐治亚理工，普渡大学，Texas A&M等等
   * Resume
   * Personal Statement
   * Letter of Recommendation
