@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Email: junworkshop.gmail.com
+Email: junworkshop@gmail.com
 
 有任何疑问，欢迎通过以上邮箱联系我，谢谢！
 
