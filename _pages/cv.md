@@ -30,11 +30,12 @@ redirect_from:
 * B.E. in Aircraft Manufacturing Engineering, Hefei University of Technology
 * M.S. in Aerospace Engineering, University of California, Davis
 * Ph.D in Aerospace Engineering, University of California, Davis
+
 本科GPA 3.75/4.0，连续四年专业第一；博士GPA 3.85/4.0，发表10余票高水平会议、期刊论文
 
 工作经历
 ======
-* Full-time Enginner
+* Full-time Engineer
   * 硅谷某公司
 * Software Engineer Intern
   * 波士顿某软件公司
