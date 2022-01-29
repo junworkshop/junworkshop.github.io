@@ -41,7 +41,7 @@ redirect_from:
   * 波士顿某软件公司
 * Research Assistant
   * University of California, Davis
-  * 从事计算流体力学、空气动力学和气动声学相关的研究工作，发表了10余票高水平会议、期刊论文
+  * 从事计算流体力学、空气动力学和气动声学相关的研究工作，发表了10余篇高水平会议、期刊论文
 * Teaching Assistant
   * University of California, Davis
   * 教授工程系多门本科生课程，包括流体力学、热力学、生物流体力学等等
