@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Jun的留学服务工作室"
+title: "Jun留学服务工作室"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
